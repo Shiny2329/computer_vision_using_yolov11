@@ -43,7 +43,7 @@ pip install onnx
 
 The performance of the model I trained is given below:
 
-- Results of YOLOv5:
+- Results of YOLOv11:
 
 <h3>YOLOv11</h3>
 <table>
